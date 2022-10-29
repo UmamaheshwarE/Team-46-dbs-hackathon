@@ -87,7 +87,7 @@ let Login = ()=>{
                                     <div className="mt-2">
                                         <input type="submit" className="btn btn-dark  text-brown" value="Login"/>
                                     </div>
-                                    <span>New to BrainsKart?
+                                    <span>New to Flight App?
                                     <NavLink to="/users/register" className="p-2 font-weight-bold">
                                         Register
                                     </NavLink>
