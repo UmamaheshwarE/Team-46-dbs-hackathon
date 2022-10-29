@@ -1,0 +1,6 @@
+.landing-page{
+    background-image: url("../../assets/img.png");
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size:cover;
+}
